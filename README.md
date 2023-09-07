@@ -10,19 +10,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy playing soccer.
 
 ## Tech Skills
-# Back-End
+<h3>Back-End</h3>
 - Java
 - SpringBoot
 - MyBatis, JPA
 
-
-# Front-End
+<h3>Front-End</h3>
 - HTML, CSS, JavaScript
 - Vue.js
 - react
 
-
-# DBMS
+<h3>DBMS</h3>
 - Oracle
 - MySql
 - MariaDB
