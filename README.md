@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 <tbody>
   <tr>
     <td>Java</td>
-    <td>SpringBoot</td>
-    <td>MyBatis, JPA</td>
-  </tr>
-  <tr>
     <td>HTML, CSS, JavaScript</td>
-    <td>Vue.js</td>
-    <td>react</td>
+    <td>Oracle</td>
   </tr>
   <tr>
-    <td>Oracle</td>
+    <td>SpringBoot, </td>
+    <td>Vue.js</td>
     <td>MySql</td>
+  </tr>
+  <tr>
+    <td>MyBatis, JPA, </td>
+    <td>react</td>
     <td>MariaDB</td>
   </tr>
 </tbody>
