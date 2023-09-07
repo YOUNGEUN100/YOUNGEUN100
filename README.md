@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently job hunting.
 - 🌱 I’m currently learning springboot.
 - 📫 How to reach me: zerosilver222@naver.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy playing soccer.
 
 ## Tech Skills
@@ -15,10 +14,14 @@ Here are some ideas to get you started:
 - Java
 - SpringBoot
 - MyBatis, JPA
+
+
 # Front-End
 - HTML, CSS, JavaScript
 - Vue.js
 - react
+
+
 # DBMS
 - Oracle
 - MySql
