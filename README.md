@@ -10,26 +10,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy playing soccer.
 
 ## Tech Skills
-<h3>Back-End</h3>
-<ul>
-<li>Java</li> 
-<li>SpringBoot</li>
-<li>MyBatis, JPA</li>
-</ul>
+<table>
+<thead>
+  <tr>
+    <th>Back-End</th>
+    <th>Front-End</th>
+    <th>DBMS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Java</td>
+    <td>SpringBoot</td>
+    <td>MyBatis, JPA</td>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JavaScript</td>
+    <td>Vue.js</td>
+    <td>react</td>
+  </tr>
+  <tr>
+    <td>Oracle</td>
+    <td>MySql</td>
+    <td>MariaDB</td>
+  </tr>
+</tbody>
+</table>
 
-<h3>Front-End</h3>
-<ul>
-<li>HTML, CSS, JavaScript</li> 
-<li>Vue.js</li>
-<li>react</li>
-</ul>
-
-<h3>DBMS</h3>
-<ul>
-<li>Oracle</li> 
-<li>MySql</li>
-<li>MariaDB</li>
-</ul>
 
 
 
