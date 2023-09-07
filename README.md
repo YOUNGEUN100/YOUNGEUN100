@@ -25,12 +25,12 @@ Here are some ideas to get you started:
     <td>Oracle</td>
   </tr>
   <tr>
-    <td>SpringBoot, </td>
+    <td>SpringBoot</td>
     <td>Vue.js</td>
     <td>MySql</td>
   </tr>
   <tr>
-    <td>MyBatis, JPA, </td>
+    <td>MyBatis, JPA</td>
     <td>react</td>
     <td>MariaDB</td>
   </tr>
