@@ -11,19 +11,26 @@ Here are some ideas to get you started:
 
 ## Tech Skills
 <h3>Back-End</h3>
-- Java
-- SpringBoot
-- MyBatis, JPA
+<ul>
+<li>Java</li> 
+<li>SpringBoot</li>
+<li>MyBatis, JPA</li>
+</ul>
 
 <h3>Front-End</h3>
-- HTML, CSS, JavaScript
-- Vue.js
-- react
+<ul>
+<li>HTML, CSS, JavaScript</li> 
+<li>Vue.js</li>
+<li>react</li>
+</ul>
 
 <h3>DBMS</h3>
-- Oracle
-- MySql
-- MariaDB
+<ul>
+<li>Oracle</li> 
+<li>MySql</li>
+<li>MariaDB</li>
+</ul>
+
 
 
 
