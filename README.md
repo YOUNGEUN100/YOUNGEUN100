@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGEUN100)](https://github.com/YOUNGEUN100/github-readme-stats)
+
+
+
 ## GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUNGEUN100)](https://github.com/YOUNGEUN100/github-readme-stats)
 
