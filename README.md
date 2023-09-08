@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ## GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUNGEUN100)](https://github.com/YOUNGEUN100/github-readme-stats)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUNGEUN100/YOUNGEUN100)
+![pv](https://pageview.vercel.app/?github_user=YOUNGEUN100)
 
 
 
