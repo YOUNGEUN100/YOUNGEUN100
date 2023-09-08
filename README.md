@@ -1,4 +1,4 @@
-### Hi! Nice to see you 👋
+### Hi! I am youngeun Suh 👋
 
 Here are some ideas to get you started:
 
