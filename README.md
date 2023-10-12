@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently job hunting.
 - 🌱 I’m currently learning react native.
 - 📫 How to reach me: zerosilver222@naver.com
-- ⚡ Fun fact: I enjoy playing soccer. I have a degree in social work.
+- ⚡ I am preparing for a hackathon competition.
 
 ## Things I code with
 <p>
