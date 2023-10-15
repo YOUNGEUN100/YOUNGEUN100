@@ -58,6 +58,8 @@
 ![image](https://github.com/YOUNGEUN100/YOUNGEUN100/assets/121986519/15243e02-3539-41fa-925c-7320a37fc039)
 
 ## 😀 미니 프로젝트
+##### 회원가입 페이지 <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" /> https://github.com/YOUNGEUN100/ye-springboot-aws
+##### 스프링부트 공부 <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" /> https://github.com/YOUNGEUN100/springboot-study-ye
 ##### Spotify 웹사이트 https://spotify-website22.angiewest.repl.co
 ##### 반응형 쇼핑몰 웹사이트 with 부트스트랩 https://chanel-website.angiewest.repl.co/
 ##### 숫자맞추기 게임 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flatsquare&logo=JavaScript&logoColor=white"/> https://github.com/YOUNGEUN100/mini1_numberGuessGame
