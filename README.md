@@ -3,7 +3,6 @@
 - 🔭 구직중   **#신입 풀스택 개발자 #신입 자바 백엔드 개발자 #신입 프론트엔드 개발자**
 - 📫 이메일 : zerosilver222@naver.com
 - ⚡ 제 5회 k-digital training 해커톤 대회 서류 통과 후 개발 진행 중 (팀장)
-- 📚 노마드 코더 IT 잡학사전 책읽기 챌린지 중 https://github.com/YOUNGEUN100/book-report
 
 ## 🛠 프로그래밍 언어 Skill
 <p>
