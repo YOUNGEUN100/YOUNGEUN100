@@ -60,8 +60,8 @@
 ##### 회원가입 페이지 <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" /> https://github.com/YOUNGEUN100/ye-springboot-aws
 ##### 스프링부트 공부 <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-2088FF?style=flat-square&logo=SpringBoot&logoColor=white" /> https://github.com/YOUNGEUN100/springboot-study-ye
 ##### Spotify 웹사이트 https://spotify-website22.angiewest.repl.co
-##### 반응형 쇼핑몰 웹사이트 with 부트스트랩 https://preeminent-griffin-ff6993.netlify.app/
-##### 숫자맞추기 게임 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flatsquare&logo=JavaScript&logoColor=white"/> https://github.com/YOUNGEUN100/mini1_numberGuessGame
+##### 반응형 쇼핑몰 웹사이트 with 부트스트랩 https://chanel-website.angiewest.repl.co/
+##### 숫자맞추기 게임 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flatsquare&logo=JavaScript&logoColor=white"/> https://master--preeminent-griffin-ff6993.netlify.app/
 ##### 할일 사이트 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=JavaScript&logoColor=white" /> https://taupe-bonbon-349428.netlify.app/
 ##### 비디오 플레이어앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> https://lucent-monstera-7830f2.netlify.app/
 ##### 달력앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> https://github.com/YOUNGEUN100/mini3_calendar-app
