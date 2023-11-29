@@ -1,6 +1,5 @@
 ## 안녕하세요. 서영은 입니다. 👋
 
-- 🔭 구직중   **#신입 풀스택 개발자 #신입 자바 백엔드 개발자 #신입 프론트엔드 개발자**
 - 📫 이메일 : zerosilver222@naver.com
 - Java 코딩테스트 공부중 https://www.acmicpc.net/user/zerosilver00
 - ⚡ PCCE 공부중, 토익 공부중
