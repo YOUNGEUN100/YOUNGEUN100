@@ -54,6 +54,14 @@
 ##### 할일 여행앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/work-hard-travel-hard-app
 ##### 날씨앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/weather-app
 
+## 🎓 교육 사항
+#### 메타코드 SQL 5기 수료 (2023.11.)
+![2023-S5B10013 서영은](https://github.com/YOUNGEUN100/YOUNGEUN100/assets/121986519/b09f802a-af49-4dba-b703-2e5d19fff49e)
+#### AWS 클라우드기반 자바&스프링&리액트 풀스택 개발자 양성 (2023.03. ~ 2023.09.)
+![그림1](https://github.com/YOUNGEUN100/YOUNGEUN100/assets/121986519/2fb73c43-d943-4920-815d-dc1becc00195)
+
+
+
 ## 🌎 GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGEUN100&layout=compact)](https://github.com/YOUNGEUN100/github-readme-stats)
