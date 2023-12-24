@@ -53,11 +53,11 @@
 ##### 할일 여행앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/work-hard-travel-hard-app
 ##### 날씨앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/weather-app
 
-## 🎓 교육 사항
+## 🎓 교육 사항 & 대외 활동 & 자격증
+#### SQLD 자격증 취득 (2023.12.)
 #### 메타코드 SQL 5기 수료 (2023.11.)
 #### 제5회 K-디지털 트레이닝 해커톤 (2023.09.- 2023.11.)
 #### AWS 클라우드기반 자바&스프링&리액트 풀스택 개발자 양성 (2023.03. ~ 2023.09.)
-#### SQLD 자격증 취득
 
 ## 🌎 GitHub
 
