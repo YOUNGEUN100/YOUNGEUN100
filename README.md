@@ -54,6 +54,7 @@
 ##### 날씨앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/weather-app
 
 ## 🎓 교육 사항 & 대외 활동 & 자격증
+#### RPA 시민개발자 수료 (2023.1.)
 #### 김영한의 실전 자바_기본편 (2023.1.)
 #### SQLD 자격증 취득 (2023.12.)
 #### 메타코드 SQL 5기 수료 (2023.11.)
