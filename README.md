@@ -35,9 +35,9 @@
 ##### 비디오 플레이어앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> https://lucent-monstera-7830f2.netlify.app/
 ##### 달력앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> https://github.com/YOUNGEUN100/mini3_calendar-app
 ##### 반응형 명언앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> https://chimerical-sprinkles-317cc1.netlify.app/
-##### 국가검색앱   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />https://gleaming-meerkat-c45a5d.netlify.app/
-##### 할일 여행앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/work-hard-travel-hard-app
-##### 날씨앱   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/weather-app
+##### [국가검색앱]([https://gleaming-meerkat-c45a5d.netlify.app](https://github.com/YOUNGEUN100/react-country-app))  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+##### [할일 여행앱](https://github.com/YOUNGEUN100/reactnative-todo-app)   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> 
+##### [날씨앱](https://github.com/YOUNGEUN100/reactnative-weather-app)   <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> https://github.com/YOUNGEUN100/weather-app
 
 ## 🎓 교육 사항
 #### 김영한의 실전 자바_중급1편 (2024.9.)
