@@ -25,11 +25,7 @@
 - 목표 및 소개 : 소주, 맥주 말고도 더 맛있고 다양한 전통주에 대해 알아봅니다. 취향에 맞는 전통주를 추천합니다. 국내 여행 시 마시면 좋을 지역별 전통주도 추천합니다. 우리술에 관심있고 우리술을 좋아하는 모든 사람들이 모인 커뮤니티
 
 ## 😀 개인 미니 프로젝트
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [국가검색앱](https://github.com/YOUNGEUN100/react-country-app) 
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [반응형 명언앱](https://github.com/YOUNGEUN100/react-wise-saying-app)   
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [달력앱](https://github.com/YOUNGEUN100/react-calendar-app)   
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [비디오 플레이어앱](https://github.com/YOUNGEUN100/react-video-player)   
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [다크모드앱](https://github.com/YOUNGEUN100/react-darkMode-app)   
+##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [국가검색앱](https://github.com/YOUNGEUN100/react-country-app) / [반응형 명언앱](https://github.com/YOUNGEUN100/react-wise-saying-app) / [달력앱](https://github.com/YOUNGEUN100/react-calendar-app) /  [비디오 플레이어앱](https://github.com/YOUNGEUN100/react-video-player) / [다크모드앱](https://github.com/YOUNGEUN100/react-darkMode-app)   
 ##### <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> [달력 할일앱](https://github.com/GirlsTalkIS/reactnative_todoc)    
 ##### <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> [할일 여행앱](https://github.com/YOUNGEUN100/reactnative-todo-app)    
 ##### <img alt="React-native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactnative&logoColor=white" /> [날씨앱](https://github.com/YOUNGEUN100/reactnative-weather-app)   
